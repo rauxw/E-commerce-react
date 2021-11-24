@@ -3,10 +3,7 @@ import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 
 const config = {
-<<<<<<< HEAD
     
-=======
->>>>>>> 9aa5ba9f0db6f1e6c0e37b8e6dbd466c70b4c6f7
     //add firebase config 
 
 };
