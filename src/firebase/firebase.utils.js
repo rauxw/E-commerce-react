@@ -3,13 +3,7 @@ import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 
 const config = {
-    apiKey: "AIzaSyCNnuRYlRguDsrS41mfDH3TjfhGA0h_bwY",
-    authDomain: "crwn-db-12bac.firebaseapp.com",
-    projectId: "crwn-db-12bac",
-    storageBucket: "crwn-db-12bac.appspot.com",
-    messagingSenderId: "631051181334",
-    appId: "1:631051181334:web:20a63d1e16e81e77f80437",
-    measurementId: "G-WC8VQ61YMV"
+    
     //add firebase config 
 
 };
