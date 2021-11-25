@@ -5,6 +5,7 @@ import 'firebase/compat/auth';
 const config = {
     
     //add firebase config 
+    //remove when pushing to github
 
 };
 
